@@ -1,5 +1,8 @@
 # commit-message-sentiment
 Commit Message Sentiment is a project dedicated to publishing a comprehensive dataset of commit messages, enriched with sentiment analysis. The dataset includes commit data from various open source projects, categorized by sentiment, issue type, and other relevant metadata.
+## Dataset Origin
+
+The dataset is derived from the 20-MAD (20-Year Massive Software Artifact Data) dataset, which integrates commit and issue data from Mozilla and Apache projects spanning over 20 years. Our dataset builds upon this foundation by adding sentiment analysis annotations to commit messages.
 
 ## Overview
 
