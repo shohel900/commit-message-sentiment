@@ -25,7 +25,7 @@ The dataset includes:
 
 ## Usage
 
-The dataset is provided in a CSV format. You can use it for various research purposes, including but not limited to:
+The dataset is provided in excel format. Due to large file size we split the dataset into five different parts. You can combine those and use it for various research purposes, including but not limited to:
 - Sentiment analysis in software development
 - Analyzing the relationship between commit sentiment and project outcomes
 - Studying contributor behavior and patterns in open-source projects
